@@ -3,7 +3,7 @@ __path = process.cwd()
 var express = require('express');
 
 // MASUKKAN/GANTI APIKEY 
-apikey = "ManzX-Host"
+apikey = "FreeApikey"
 // 
 
 var fetch = require('node-fetch');
